@@ -1,0 +1,12 @@
+{
+    "name": "com.laymglitched.reflection",
+    "version": "0.0.1",
+    "displayName": "Reflection SDK",
+    "description": "The Reflection SDK.",
+    "unity": "6000.0",
+    "author": {
+      "name": "LaymGlitched"
+    },
+    "unityRelease": "0f1",
+    "hideInEditor": false
+  }
